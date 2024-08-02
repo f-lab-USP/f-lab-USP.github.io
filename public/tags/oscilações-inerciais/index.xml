@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Oscilações Inerciais on f.lab</title>
-    <link>http://localhost:1313/tags/oscila%C3%A7%C3%B5es-inerciais/</link>
+    <link>https://f-lab-USP.github.io/tags/oscila%C3%A7%C3%B5es-inerciais/</link>
     <description>Recent content in Oscilações Inerciais on f.lab</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/tags/oscila%C3%A7%C3%B5es-inerciais/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://f-lab-USP.github.io/tags/oscila%C3%A7%C3%B5es-inerciais/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Dr. José Roberto  B. Leite</title>
-      <link>http://localhost:1313/team/joserobertoleite/</link>
+      <link>https://f-lab-USP.github.io/team/joserobertoleite/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/team/joserobertoleite/</guid>
+      <guid>https://f-lab-USP.github.io/team/joserobertoleite/</guid>
       <description>Departamento de Oceanografia Física, USP</description>
     </item>
   </channel>
