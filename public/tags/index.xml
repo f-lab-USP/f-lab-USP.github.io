@@ -2,149 +2,149 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on f.lab</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://f-lab-USP.github.io/tags/</link>
     <description>Recent content in Tags on f.lab</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://f-lab-USP.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AIA</title>
-      <link>http://localhost:1313/tags/aia/</link>
+      <link>https://f-lab-USP.github.io/tags/aia/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/aia/</guid>
+      <guid>https://f-lab-USP.github.io/tags/aia/</guid>
       <description></description>
     </item>
     <item>
       <title>AMOC</title>
-      <link>http://localhost:1313/tags/amoc/</link>
+      <link>https://f-lab-USP.github.io/tags/amoc/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/amoc/</guid>
+      <guid>https://f-lab-USP.github.io/tags/amoc/</guid>
       <description></description>
     </item>
     <item>
       <title>Bacia De Santos</title>
-      <link>http://localhost:1313/tags/bacia-de-santos/</link>
+      <link>https://f-lab-USP.github.io/tags/bacia-de-santos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/bacia-de-santos/</guid>
+      <guid>https://f-lab-USP.github.io/tags/bacia-de-santos/</guid>
       <description></description>
     </item>
     <item>
       <title>Bifurcação De Santos</title>
-      <link>http://localhost:1313/tags/bifurca%C3%A7%C3%A3o-de-santos/</link>
+      <link>https://f-lab-USP.github.io/tags/bifurca%C3%A7%C3%A3o-de-santos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/bifurca%C3%A7%C3%A3o-de-santos/</guid>
+      <guid>https://f-lab-USP.github.io/tags/bifurca%C3%A7%C3%A3o-de-santos/</guid>
       <description></description>
     </item>
     <item>
       <title>Clima</title>
-      <link>http://localhost:1313/tags/clima/</link>
+      <link>https://f-lab-USP.github.io/tags/clima/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/clima/</guid>
+      <guid>https://f-lab-USP.github.io/tags/clima/</guid>
       <description></description>
     </item>
     <item>
       <title>Dinâmica De Fluidos Geofísicos</title>
-      <link>http://localhost:1313/tags/din%C3%A2mica-de-fluidos-geof%C3%ADsicos/</link>
+      <link>https://f-lab-USP.github.io/tags/din%C3%A2mica-de-fluidos-geof%C3%ADsicos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/din%C3%A2mica-de-fluidos-geof%C3%ADsicos/</guid>
+      <guid>https://f-lab-USP.github.io/tags/din%C3%A2mica-de-fluidos-geof%C3%ADsicos/</guid>
       <description></description>
     </item>
     <item>
       <title>Dinâmica De Mesoescala</title>
-      <link>http://localhost:1313/tags/din%C3%A2mica-de-mesoescala/</link>
+      <link>https://f-lab-USP.github.io/tags/din%C3%A2mica-de-mesoescala/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/din%C3%A2mica-de-mesoescala/</guid>
+      <guid>https://f-lab-USP.github.io/tags/din%C3%A2mica-de-mesoescala/</guid>
       <description></description>
     </item>
     <item>
       <title>Dinâmica De Submesoescala</title>
-      <link>http://localhost:1313/tags/din%C3%A2mica-de-submesoescala/</link>
+      <link>https://f-lab-USP.github.io/tags/din%C3%A2mica-de-submesoescala/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/din%C3%A2mica-de-submesoescala/</guid>
+      <guid>https://f-lab-USP.github.io/tags/din%C3%A2mica-de-submesoescala/</guid>
       <description></description>
     </item>
     <item>
       <title>FAPESP</title>
-      <link>http://localhost:1313/tags/fapesp/</link>
+      <link>https://f-lab-USP.github.io/tags/fapesp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/fapesp/</guid>
+      <guid>https://f-lab-USP.github.io/tags/fapesp/</guid>
       <description></description>
     </item>
     <item>
       <title>Mistura Turbulenta</title>
-      <link>http://localhost:1313/tags/mistura-turbulenta/</link>
+      <link>https://f-lab-USP.github.io/tags/mistura-turbulenta/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/mistura-turbulenta/</guid>
+      <guid>https://f-lab-USP.github.io/tags/mistura-turbulenta/</guid>
       <description></description>
     </item>
     <item>
       <title>Nível Do Mar</title>
-      <link>http://localhost:1313/tags/n%C3%ADvel-do-mar/</link>
+      <link>https://f-lab-USP.github.io/tags/n%C3%ADvel-do-mar/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/n%C3%ADvel-do-mar/</guid>
+      <guid>https://f-lab-USP.github.io/tags/n%C3%ADvel-do-mar/</guid>
       <description></description>
     </item>
     <item>
       <title>Oceananigans</title>
-      <link>http://localhost:1313/tags/oceananigans/</link>
+      <link>https://f-lab-USP.github.io/tags/oceananigans/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/oceananigans/</guid>
+      <guid>https://f-lab-USP.github.io/tags/oceananigans/</guid>
       <description></description>
     </item>
     <item>
       <title>Ondas Internas</title>
-      <link>http://localhost:1313/tags/ondas-internas/</link>
+      <link>https://f-lab-USP.github.io/tags/ondas-internas/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/ondas-internas/</guid>
+      <guid>https://f-lab-USP.github.io/tags/ondas-internas/</guid>
       <description></description>
     </item>
     <item>
       <title>Oscilações Inerciais</title>
-      <link>http://localhost:1313/tags/oscila%C3%A7%C3%B5es-inerciais/</link>
+      <link>https://f-lab-USP.github.io/tags/oscila%C3%A7%C3%B5es-inerciais/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/oscila%C3%A7%C3%B5es-inerciais/</guid>
+      <guid>https://f-lab-USP.github.io/tags/oscila%C3%A7%C3%B5es-inerciais/</guid>
       <description></description>
     </item>
     <item>
       <title>PIBIC/CNPQ</title>
-      <link>http://localhost:1313/tags/pibic/cnpq/</link>
+      <link>https://f-lab-USP.github.io/tags/pibic/cnpq/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/pibic/cnpq/</guid>
+      <guid>https://f-lab-USP.github.io/tags/pibic/cnpq/</guid>
       <description></description>
     </item>
     <item>
       <title>PUB/Ensino</title>
-      <link>http://localhost:1313/tags/pub/ensino/</link>
+      <link>https://f-lab-USP.github.io/tags/pub/ensino/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/pub/ensino/</guid>
+      <guid>https://f-lab-USP.github.io/tags/pub/ensino/</guid>
       <description></description>
     </item>
     <item>
       <title>PUB/IC</title>
-      <link>http://localhost:1313/tags/pub/ic/</link>
+      <link>https://f-lab-USP.github.io/tags/pub/ic/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/pub/ic/</guid>
+      <guid>https://f-lab-USP.github.io/tags/pub/ic/</guid>
       <description></description>
     </item>
     <item>
       <title>Ressurgência Costeira</title>
-      <link>http://localhost:1313/tags/ressurg%C3%AAncia-costeira/</link>
+      <link>https://f-lab-USP.github.io/tags/ressurg%C3%AAncia-costeira/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/ressurg%C3%AAncia-costeira/</guid>
+      <guid>https://f-lab-USP.github.io/tags/ressurg%C3%AAncia-costeira/</guid>
       <description></description>
     </item>
     <item>
       <title>Saildrones</title>
-      <link>http://localhost:1313/tags/saildrones/</link>
+      <link>https://f-lab-USP.github.io/tags/saildrones/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/saildrones/</guid>
+      <guid>https://f-lab-USP.github.io/tags/saildrones/</guid>
       <description></description>
     </item>
     <item>
       <title>Serrapilheira</title>
-      <link>http://localhost:1313/tags/serrapilheira/</link>
+      <link>https://f-lab-USP.github.io/tags/serrapilheira/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/serrapilheira/</guid>
+      <guid>https://f-lab-USP.github.io/tags/serrapilheira/</guid>
       <description></description>
     </item>
   </channel>

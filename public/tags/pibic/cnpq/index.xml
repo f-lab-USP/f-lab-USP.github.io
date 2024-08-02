@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>PIBIC/CNPQ on f.lab</title>
-    <link>http://localhost:1313/tags/pibic/cnpq/</link>
+    <link>https://f-lab-USP.github.io/tags/pibic/cnpq/</link>
     <description>Recent content in PIBIC/CNPQ on f.lab</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/tags/pibic/cnpq/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://f-lab-USP.github.io/tags/pibic/cnpq/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Camile Chiodini</title>
-      <link>http://localhost:1313/team/camilechiodini/</link>
+      <link>https://f-lab-USP.github.io/team/camilechiodini/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/team/camilechiodini/</guid>
+      <guid>https://f-lab-USP.github.io/team/camilechiodini/</guid>
       <description>Bacharelado em Oceanografia, USP</description>
     </item>
   </channel>

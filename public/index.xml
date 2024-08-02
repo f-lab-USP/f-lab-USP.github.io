@@ -2,100 +2,100 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on f.lab</title>
-    <link>http://localhost:1313/</link>
+    <link>https://f-lab-USP.github.io/</link>
     <description>Recent content in Home on f.lab</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://f-lab-USP.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Dr. Cesar B. Rocha</title>
-      <link>http://localhost:1313/team/cesarrocha/</link>
+      <link>https://f-lab-USP.github.io/team/cesarrocha/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/team/cesarrocha/</guid>
+      <guid>https://f-lab-USP.github.io/team/cesarrocha/</guid>
       <description>Departamento de Oceanografia Física, USP</description>
     </item>
     <item>
       <title>Pesquenas escalas importam</title>
-      <link>http://localhost:1313/pesquisa/pesquisa1/</link>
+      <link>https://f-lab-USP.github.io/pesquisa/pesquisa1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pesquisa/pesquisa1/</guid>
+      <guid>https://f-lab-USP.github.io/pesquisa/pesquisa1/</guid>
       <description>O papel do transporte turbulento de submesoescala na circulação oceânica e no clima O oceano desempenha um papel central nas mudanças climáticas globais. Na era industrial, o oceano absorveu cerca de 30% do dióxido de carbono proveniente da queima de combustíveis fósseis e cerca de 90% do calor proveniente do desequilíbrio de radiação causado pelo excesso de gases de efeito estufa, incluindo o dióxido de carbono, que permaneceram na atmosfera. Portanto, o aquecimento global e suas consequências dependem crucialmente das taxas em que calor e dioxodo de carbono são através da interface ar-mar, sequestrados para o interior do oceano e redistribuídos pelo oceano global.</description>
     </item>
     <item>
       <title>Turbulência e mistura</title>
-      <link>http://localhost:1313/pesquisa/pesquisa2/</link>
+      <link>https://f-lab-USP.github.io/pesquisa/pesquisa2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pesquisa/pesquisa2/</guid>
+      <guid>https://f-lab-USP.github.io/pesquisa/pesquisa2/</guid>
       <description>A turbulência de pequena escala no oceano abissal força a variabilidade climática? Assim como há ondas na superfície do mar que eventualmente quebram na praia, existem ondas no interior do oceano, entre camadas de diferente densidade. Essas ondas internas eventualmente também quebram, causando turbulência e, consequentemente, mistura das diferentes camadas de água. Este projeto combina teoria de dinâmica de fluidos (modelos matemáticos), observações coletadas no Atlântico Sul e simulações computacionais para testar a hipótese de que variações na mistura turbulenta devido a quebra de ondas internas no oceano abissal controlam a variabilidade da célula inferior da AMOC, a Célula de Circulação Meridional do Atlântico.</description>
     </item>
     <item>
       <title>Dr. José Roberto  B. Leite</title>
-      <link>http://localhost:1313/team/joserobertoleite/</link>
+      <link>https://f-lab-USP.github.io/team/joserobertoleite/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/team/joserobertoleite/</guid>
+      <guid>https://f-lab-USP.github.io/team/joserobertoleite/</guid>
       <description>Departamento de Oceanografia Física, USP</description>
     </item>
     <item>
       <title>Dr. Maurício R. Rocha</title>
-      <link>http://localhost:1313/team/mauriciorocha/</link>
+      <link>https://f-lab-USP.github.io/team/mauriciorocha/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/team/mauriciorocha/</guid>
+      <guid>https://f-lab-USP.github.io/team/mauriciorocha/</guid>
       <description>Departamento de Oceanografia Física, USP</description>
     </item>
     <item>
       <title>Rafael C. Martins</title>
-      <link>http://localhost:1313/team/rafaelmartins/</link>
+      <link>https://f-lab-USP.github.io/team/rafaelmartins/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/team/rafaelmartins/</guid>
+      <guid>https://f-lab-USP.github.io/team/rafaelmartins/</guid>
       <description>Programa de Pós-graduação em Oceanografia Física, USP</description>
     </item>
     <item>
       <title>Camile Chiodini</title>
-      <link>http://localhost:1313/team/camilechiodini/</link>
+      <link>https://f-lab-USP.github.io/team/camilechiodini/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/team/camilechiodini/</guid>
+      <guid>https://f-lab-USP.github.io/team/camilechiodini/</guid>
       <description>Bacharelado em Oceanografia, USP</description>
     </item>
     <item>
       <title>Lara M. Schlumbum</title>
-      <link>http://localhost:1313/team/laraschlumbum/</link>
+      <link>https://f-lab-USP.github.io/team/laraschlumbum/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/team/laraschlumbum/</guid>
+      <guid>https://f-lab-USP.github.io/team/laraschlumbum/</guid>
       <description>Bacharelado em Oceanografia, USP</description>
     </item>
     <item>
       <title>Mariana S. Barros</title>
-      <link>http://localhost:1313/team/marianabarros/</link>
+      <link>https://f-lab-USP.github.io/team/marianabarros/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/team/marianabarros/</guid>
+      <guid>https://f-lab-USP.github.io/team/marianabarros/</guid>
       <description>Bacharelado em Oceanografia, USP</description>
     </item>
     <item>
       <title>Murilo V. Caetité</title>
-      <link>http://localhost:1313/team/murilocaetite/</link>
+      <link>https://f-lab-USP.github.io/team/murilocaetite/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/team/murilocaetite/</guid>
+      <guid>https://f-lab-USP.github.io/team/murilocaetite/</guid>
       <description>Bacharelado em Oceanografia, USP</description>
     </item>
     <item>
       <title>Natália R. Jorge</title>
-      <link>http://localhost:1313/team/nataliajorge/</link>
+      <link>https://f-lab-USP.github.io/team/nataliajorge/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/team/nataliajorge/</guid>
+      <guid>https://f-lab-USP.github.io/team/nataliajorge/</guid>
       <description>Bacharelado em Oceanografia, USP</description>
     </item>
     <item>
       <title>Pâmela B. Anjos</title>
-      <link>http://localhost:1313/team/pamelaanjos/</link>
+      <link>https://f-lab-USP.github.io/team/pamelaanjos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/team/pamelaanjos/</guid>
+      <guid>https://f-lab-USP.github.io/team/pamelaanjos/</guid>
       <description>Bacharelado em Oceanografia, USP</description>
     </item>
     <item>
       <title>Sobre</title>
-      <link>http://localhost:1313/about/</link>
+      <link>https://f-lab-USP.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
+      <guid>https://f-lab-USP.github.io/about/</guid>
       <description></description>
     </item>
   </channel>

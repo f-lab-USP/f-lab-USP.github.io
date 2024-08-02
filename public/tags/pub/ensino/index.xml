@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>PUB/Ensino on f.lab</title>
-    <link>http://localhost:1313/tags/pub/ensino/</link>
+    <link>https://f-lab-USP.github.io/tags/pub/ensino/</link>
     <description>Recent content in PUB/Ensino on f.lab</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/tags/pub/ensino/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://f-lab-USP.github.io/tags/pub/ensino/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mariana S. Barros</title>
-      <link>http://localhost:1313/team/marianabarros/</link>
+      <link>https://f-lab-USP.github.io/team/marianabarros/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/team/marianabarros/</guid>
+      <guid>https://f-lab-USP.github.io/team/marianabarros/</guid>
       <description>Bacharelado em Oceanografia, USP</description>
     </item>
     <item>
       <title>Pâmela B. Anjos</title>
-      <link>http://localhost:1313/team/pamelaanjos/</link>
+      <link>https://f-lab-USP.github.io/team/pamelaanjos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/team/pamelaanjos/</guid>
+      <guid>https://f-lab-USP.github.io/team/pamelaanjos/</guid>
       <description>Bacharelado em Oceanografia, USP</description>
     </item>
   </channel>
