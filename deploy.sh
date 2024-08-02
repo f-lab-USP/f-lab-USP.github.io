@@ -12,7 +12,7 @@ if [ -n "$*" ]; then
 fi
 
 # first pull
-git pull && git add --all && git commit -m "$msg" && git push --set-upstream origin master;
+git pull && git add --all && git commit -m "$msg" && git push --set-upstream origin main;
 
 # Build the project.
 hugo -t hugo-hero-theme # if using a theme, replace with `hugo -t <YOURTHEME>`
@@ -26,4 +26,4 @@ git add .
 git commit -m "$msg"
 
 # Push source and build repos.
-git push origin master
+git push origin main
