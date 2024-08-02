@@ -43,8 +43,8 @@ enableEmoji = true
 
 [[menu.main]]
 	name = "Pesquisa"
-	identifier = "research"
-	url = "/research/"
+	identifier = "pesquisa"
+	url = "/pesquisa/"
     weight = 2
 
 [[menu.main]]

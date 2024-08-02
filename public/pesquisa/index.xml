@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>f.lab</title>
+    <link>http://localhost:1313/pesquisa/</link>
+    <description>Recent content on f.lab</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/pesquisa/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pesquenas escalas importam</title>
+      <link>http://localhost:1313/pesquisa/pesquisa1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pesquisa/pesquisa1/</guid>
+      <description>O papel do transporte turbulento de submesoescala na circulação oceânica e no clima O oceano desempenha um papel central nas mudanças climáticas globais. Na era industrial, o oceano absorveu cerca de 30% do dióxido de carbono proveniente da queima de combustíveis fósseis e cerca de 90% do calor proveniente do desequilíbrio de radiação causado pelo excesso de gases de efeito estufa, incluindo o dióxido de carbono, que permaneceram na atmosfera. Portanto, o aquecimento global e suas consequências dependem crucialmente das taxas em que calor e dioxodo de carbono são através da interface ar-mar, sequestrados para o interior do oceano e redistribuídos pelo oceano global.</description>
+    </item>
+    <item>
+      <title>Turbulência e mistura</title>
+      <link>http://localhost:1313/pesquisa/pesquisa2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pesquisa/pesquisa2/</guid>
+      <description>A turbulência de pequena escala no oceano abissal força a variabilidade climática? Assim como há ondas na superfície do mar que eventualmente quebram na praia, existem ondas no interior do oceano, entre camadas de diferente densidade. Essas ondas internas eventualmente também quebram, causando turbulência e, consequentemente, mistura das diferentes camadas de água. Este projeto combina teoria de dinâmica de fluidos (modelos matemáticos), observações coletadas no Atlântico Sul e simulações computacionais para testar a hipótese de que variações na mistura turbulenta devido a quebra de ondas internas no oceano abissal controlam a variabilidade da célula inferior da AMOC, a Célula de Circulação Meridional do Atlântico.</description>
+    </item>
+  </channel>
+</rss>

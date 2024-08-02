@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Saildrones on f.lab</title>
-    <link>https://f-lab-USP.github.io/tags/saildrones/</link>
+    <link>http://localhost:1313/tags/saildrones/</link>
     <description>Recent content in Saildrones on f.lab</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="https://f-lab-USP.github.io/tags/saildrones/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/saildrones/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Lara M. Schlumbum</title>
-      <link>https://f-lab-USP.github.io/team/laraschlumbum/</link>
+      <link>http://localhost:1313/team/laraschlumbum/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://f-lab-USP.github.io/team/laraschlumbum/</guid>
+      <guid>http://localhost:1313/team/laraschlumbum/</guid>
       <description>Bacharelado em Oceanografia, USP</description>
     </item>
     <item>
       <title>Murilo V. Caetité</title>
-      <link>https://f-lab-USP.github.io/team/murilocaetite/</link>
+      <link>http://localhost:1313/team/murilocaetite/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://f-lab-USP.github.io/team/murilocaetite/</guid>
+      <guid>http://localhost:1313/team/murilocaetite/</guid>
       <description>Bacharelado em Oceanografia, USP</description>
     </item>
   </channel>
