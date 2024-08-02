@@ -1,4 +1,4 @@
-baseURL = "https://flab-USP.github.io"
+baseURL = "https://f-lab-USP.github.io"
 relativeURLs = "True"
 canonifyURLs = "True"
 languageCode = "en-us"
