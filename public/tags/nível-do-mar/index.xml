@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nível Do Mar on f.lab</title>
-    <link>https://f-lab-USP.github.io/tags/n%C3%ADvel-do-mar/</link>
+    <link>http://localhost:1313/tags/n%C3%ADvel-do-mar/</link>
     <description>Recent content in Nível Do Mar on f.lab</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="https://f-lab-USP.github.io/tags/n%C3%ADvel-do-mar/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/n%C3%ADvel-do-mar/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Dr. Cesar B. Rocha</title>
-      <link>https://f-lab-USP.github.io/team/cesarrocha/</link>
+      <link>http://localhost:1313/team/cesarrocha/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://f-lab-USP.github.io/team/cesarrocha/</guid>
+      <guid>http://localhost:1313/team/cesarrocha/</guid>
       <description>Departamento de Oceanografia Física, USP</description>
     </item>
     <item>
       <title>Dr. José Roberto  B. Leite</title>
-      <link>https://f-lab-USP.github.io/team/joserobertoleite/</link>
+      <link>http://localhost:1313/team/joserobertoleite/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://f-lab-USP.github.io/team/joserobertoleite/</guid>
+      <guid>http://localhost:1313/team/joserobertoleite/</guid>
       <description>Departamento de Oceanografia Física, USP</description>
     </item>
   </channel>
