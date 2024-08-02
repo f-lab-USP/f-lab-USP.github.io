@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on f.lab</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Home on f.lab</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dr. Cesar B. Rocha</title>
+      <link>http://localhost:1313/team/cesarrocha/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/team/cesarrocha/</guid>
+      <description>Departamento de Oceanografia Física, USP</description>
+    </item>
+    <item>
+      <title>Dr. José Roberto  B. Leite</title>
+      <link>http://localhost:1313/team/joserobertoleite/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/team/joserobertoleite/</guid>
+      <description>Departamento de Oceanografia Física, USP</description>
+    </item>
+    <item>
+      <title>Dr. Maurício R. Rocha</title>
+      <link>http://localhost:1313/team/mauriciorocha/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/team/mauriciorocha/</guid>
+      <description>Departamento de Oceanografia Física, USP</description>
+    </item>
+    <item>
+      <title>Rafael C. Martins</title>
+      <link>http://localhost:1313/team/rafaelmartins/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/team/rafaelmartins/</guid>
+      <description>Programa de Pós-graduação em Oceanografia Física, USP</description>
+    </item>
+    <item>
+      <title>Camile Chiodini</title>
+      <link>http://localhost:1313/team/camilechiodini/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/team/camilechiodini/</guid>
+      <description>Bacharelado em Oceanografia, USP</description>
+    </item>
+    <item>
+      <title>Lara M. Schlumbum</title>
+      <link>http://localhost:1313/team/laraschlumbum/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/team/laraschlumbum/</guid>
+      <description>Bacharelado em Oceanografia, USP</description>
+    </item>
+    <item>
+      <title>Mariana S. Barros</title>
+      <link>http://localhost:1313/team/marianabarros/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/team/marianabarros/</guid>
+      <description>Bacharelado em Oceanografia, USP</description>
+    </item>
+    <item>
+      <title>Murilo V. Caetité</title>
+      <link>http://localhost:1313/team/murilocaetite/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/team/murilocaetite/</guid>
+      <description>Bacharelado em Oceanografia, USP</description>
+    </item>
+    <item>
+      <title>Natália R. Jorge</title>
+      <link>http://localhost:1313/team/nataliajorge/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/team/nataliajorge/</guid>
+      <description>Bacharelado em Oceanografia, USP</description>
+    </item>
+    <item>
+      <title>Pâmela B. Anjos</title>
+      <link>http://localhost:1313/team/pamelaanjos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/team/pamelaanjos/</guid>
+      <description>Bacharelado em Oceanografia, USP</description>
+    </item>
+    <item>
+      <title>Sobre</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

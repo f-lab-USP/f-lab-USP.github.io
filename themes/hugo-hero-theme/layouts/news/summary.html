@@ -1,0 +1,41 @@
+<div class="work work-summary responsive-widget">
+  {{ if .Params.thumbnail }}
+  <div class="work-image item ">
+    <a href="{{ .RelPermalink }}">
+      <div class="image-container">
+        <img src="{{ .Params.thumbnail | relURL }}" class="responsive-image-container"/>
+      </div>
+    </a>
+  </div>
+  {{ end }}
+  <div class="work-content">
+    <h2 class="work-title">
+      <a href="{{ .Permalink }}">{{ .Title }}</a>
+    </h2>
+  </div>
+</div>
+
+<style>
+  .responsive-image-container {
+    width: auto;
+    height: auto;
+    display: flex;
+    max-width: 100%; /* Set the image to take up all available width */
+    max-height: calc(40vh - 100px);
+    padding-top: calc(17vh - 100px);
+  }
+  .responsive-image {
+    width: auto;
+    height: 100%;
+    max-height: 100%;
+  }
+  .responsive-widget {
+    height: 20vw; /* Fixed height relative to the screen */
+    display: flex;
+    align-items: center; /* Center vertically */
+    overflow: hidden; /* Hide any overflow content */
+  }
+  .image-container {
+    margin: 0 auto; /* Center horizontally */
+  }
+</style>

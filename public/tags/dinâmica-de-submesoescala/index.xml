@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dinâmica De Submesoescala on f.lab</title>
+    <link>http://localhost:1313/tags/din%C3%A2mica-de-submesoescala/</link>
+    <description>Recent content in Dinâmica De Submesoescala on f.lab</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/tags/din%C3%A2mica-de-submesoescala/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dr. Cesar B. Rocha</title>
+      <link>http://localhost:1313/team/cesarrocha/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/team/cesarrocha/</guid>
+      <description>Departamento de Oceanografia Física, USP</description>
+    </item>
+    <item>
+      <title>Rafael C. Martins</title>
+      <link>http://localhost:1313/team/rafaelmartins/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/team/rafaelmartins/</guid>
+      <description>Programa de Pós-graduação em Oceanografia Física, USP</description>
+    </item>
+    <item>
+      <title>Camile Chiodini</title>
+      <link>http://localhost:1313/team/camilechiodini/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/team/camilechiodini/</guid>
+      <description>Bacharelado em Oceanografia, USP</description>
+    </item>
+    <item>
+      <title>Lara M. Schlumbum</title>
+      <link>http://localhost:1313/team/laraschlumbum/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/team/laraschlumbum/</guid>
+      <description>Bacharelado em Oceanografia, USP</description>
+    </item>
+    <item>
+      <title>Murilo V. Caetité</title>
+      <link>http://localhost:1313/team/murilocaetite/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/team/murilocaetite/</guid>
+      <description>Bacharelado em Oceanografia, USP</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,5 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'f.lab - Multiscale Ocean and Climate Physics'
+subtitle = 'f-lab is a research group at USP'
+theme = 'ananke'
