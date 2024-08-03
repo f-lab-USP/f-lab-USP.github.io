@@ -7,7 +7,7 @@ jobtitle: "Oceanógrafo, Pós-doutorando"
 promoted: true
 Website: 
 weight: 3
-tags: ['AMOC', 'Mistura Turbulenta', 'Clima','Serrapilheira']
+tags: ['AMOC', 'Mistura Turbulenta', 'Serrapilheira']
 ---
 
 

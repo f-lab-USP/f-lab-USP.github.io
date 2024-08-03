@@ -7,7 +7,7 @@ jobtitle: "Físico, Técnico Especialista em Laboratório"
 promoted: true
 Website: 
 weight: 2
-tags: ['Nível do Mar', 'Oscilações Inerciais']
+tags: ['Nível do Mar', 'Oscilações Inerciais','Previsão Oceânica']
 ---
 
 

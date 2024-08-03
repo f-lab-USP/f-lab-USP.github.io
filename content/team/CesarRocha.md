@@ -7,7 +7,7 @@ jobtitle: "Oceanógrafo, Professor Doutor"
 promoted: true
 Website: https://cesar-rocha.github.io/
 weight: 1
-tags: ['Dinâmica de Submesoescala', 'Ondas Internas', 'Mistura Turbulenta', 'Nível do Mar', 'Dinâmica de Fluidos Geofísicos']
+tags: ['Oceano', 'Física Teórica','Matemática Aplicada']
 ---
 
 
