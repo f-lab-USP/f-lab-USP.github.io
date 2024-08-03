@@ -8,11 +8,13 @@ heroBackground: '/images/VorticityBanner.png'
 
 Nossa pesquisa foca em problemas-chave da oceanografia física moderna. Fazemos ciência fundamental, com ênfase na física de fenômenos oceânicos de escalas relativamente pequenas e seus efeitos na circulação oceânica de grande escala e no clima global. Nossos projetos atuais, descritos em detalhe abaixo, focam em três classes de fenômenos:
 
+<br>
 
 1. Frentes, filamentos, instabilidades e vórtices de submesoescala. 
 2. Ondas internas, turbulêcia e mistura.
 3. Circulacão geral do Atlâtico Sul e seu papel no clima
 
+<br>
 
 Nossa pesquisa utiliza uma abordagem fenomenológica. Buscamos uma descrição mecanística de processos associados aos fenômenos listados acima. Para tal, utilizamos uma combinação de teoria de dinâmica de fluidos, modelos computacionais de variada complexidade e observações in situ e remotas.
 
