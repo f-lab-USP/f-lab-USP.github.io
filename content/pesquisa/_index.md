@@ -16,7 +16,7 @@ Nossa pesquisa foca em problemas-chave da oceanografia física moderna. Fazemos 
 
 Nossa pesquisa utiliza uma abordagem fenomenológica. Buscamos uma descrição mecanística de processos associados aos fenômenos listados acima. Para tal, utilizamos uma combinação de teoria de dinâmica de fluidos, modelos computacionais de variada complexidade e observações in situ e remotas.
 
-Além dos tópicos de ciência básica acima, que são o carro-chefe de nosso programa de pesquisa, temos nos dedicado ao resgate e processamento de medições históricas de nível do mar coletadas pelo Instituto Oceanográfico nos últimos 70 anos na costa de São Paulo. O objetivo aqui estimar com precisão a elevação do nível do mar na costa sudeste brasileira, além estudar outras fenômenos que contribuem variações extremas do nível do mar (e.g., marés metereológica).
+Além dos tópicos de ciência básica acima, que são o carro-chefe de nosso programa de pesquisa, temos nos dedicado ao resgate e processamento de medições históricas de nível do mar coletadas pelo Instituto Oceanográfico nos últimos 70 anos na costa de São Paulo. O objetivo aqui é estimar com precisão a elevação do nível do mar e eventos extremos de variação do nível do mar (e.g., marés metereológica) na costa sudeste brasileira.
 
 
 
