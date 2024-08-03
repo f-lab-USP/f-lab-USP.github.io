@@ -36,20 +36,6 @@
       <description></description>
     </item>
     <item>
-      <title>Clima</title>
-      <link>https://f-lab-USP.github.io/tags/clima/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://f-lab-USP.github.io/tags/clima/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Dinâmica De Fluidos Geofísicos</title>
-      <link>https://f-lab-USP.github.io/tags/din%C3%A2mica-de-fluidos-geof%C3%ADsicos/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://f-lab-USP.github.io/tags/din%C3%A2mica-de-fluidos-geof%C3%ADsicos/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Dinâmica De Mesoescala</title>
       <link>https://f-lab-USP.github.io/tags/din%C3%A2mica-de-mesoescala/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -68,6 +54,20 @@
       <link>https://f-lab-USP.github.io/tags/fapesp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://f-lab-USP.github.io/tags/fapesp/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Física Teórica</title>
+      <link>https://f-lab-USP.github.io/tags/f%C3%ADsica-te%C3%B3rica/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://f-lab-USP.github.io/tags/f%C3%ADsica-te%C3%B3rica/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Matemática Aplicada</title>
+      <link>https://f-lab-USP.github.io/tags/matem%C3%A1tica-aplicada/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://f-lab-USP.github.io/tags/matem%C3%A1tica-aplicada/</guid>
       <description></description>
     </item>
     <item>
@@ -92,10 +92,10 @@
       <description></description>
     </item>
     <item>
-      <title>Ondas Internas</title>
-      <link>https://f-lab-USP.github.io/tags/ondas-internas/</link>
+      <title>Oceano</title>
+      <link>https://f-lab-USP.github.io/tags/oceano/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://f-lab-USP.github.io/tags/ondas-internas/</guid>
+      <guid>https://f-lab-USP.github.io/tags/oceano/</guid>
       <description></description>
     </item>
     <item>
@@ -110,6 +110,13 @@
       <link>https://f-lab-USP.github.io/tags/pibic/cnpq/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://f-lab-USP.github.io/tags/pibic/cnpq/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Previsão Oceânica</title>
+      <link>https://f-lab-USP.github.io/tags/previs%C3%A3o-oce%C3%A2nica/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://f-lab-USP.github.io/tags/previs%C3%A3o-oce%C3%A2nica/</guid>
       <description></description>
     </item>
     <item>
