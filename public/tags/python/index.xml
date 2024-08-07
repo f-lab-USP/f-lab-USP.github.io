@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Python on f.lab</title>
+    <link>https://f-lab-USP.github.io/tags/python/</link>
+    <description>Recent content in Python on f.lab</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://f-lab-USP.github.io/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Marina R. Tambelli</title>
+      <link>https://f-lab-USP.github.io/team/marinatambelli/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://f-lab-USP.github.io/team/marinatambelli/</guid>
+      <description>Bacharelado em Oceanografia, USP</description>
+    </item>
+  </channel>
+</rss>
