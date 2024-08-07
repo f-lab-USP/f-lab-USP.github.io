@@ -1,6 +1,6 @@
 ---
 title: 'Team'
 heroHeading: 'Conheça os integrantes'
-heroSubHeading: '3 pesquisadores, 1 mestrando, 6 alunos de graduação'
+heroSubHeading: 'Cientistas e alunos de pós-graduação e iniciação científica'
 heroBackground: 'images/VorticityBanner.png'
 ---
