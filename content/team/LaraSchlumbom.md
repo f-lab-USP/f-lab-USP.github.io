@@ -1,5 +1,5 @@
 ---
-title: "Lara M. Schlumbum"
+title: "Lara M. Schlumbom"
 date: 2024-07-24T19:56+10:00
 draft: false
 image: "images/team/LaraSchlumbum.jpg"
